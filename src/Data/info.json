@@ -1,0 +1,93 @@
+{
+  "Admin": [
+    {
+      "id": "1",
+      "email": "abcd@gmail.com",
+      "password": "abc123",
+      "phone": "1234567890",
+      "name": "ABC"
+    },
+    {
+      "id": "8990",
+      "name": "Harish",
+      "password": "1234",
+      "phone": "1234567890",
+      "email": "hari@gamil.com"
+    }
+  ],
+  "User": [],
+  "Product": [
+    {
+      "id": "e88d",
+      "category": "Mobile",
+      "rating": "5",
+      "price": "9999.99",
+      "name": "Samsung",
+      "image": "https://m.media-amazon.com/images/I/81nMsYgIHdL._AC_UY327_FMwebp_QL65_.jpg",
+      "desc": "realme NARZO N61 (Voyage Blue,6GB RAM+128GB Storage) 90Hz Eye Comfort Display | IP54 Dust & Water Resistance | 48-Month Fluency | Charger in The Box\n4.0 out of 5 stars 777"
+    },
+    {
+      "category": "Mobile",
+      "name": "Redmi 20",
+      "price": "9999.99",
+      "image": "https://m.media-amazon.com/images/I/81KFSdWCCEL._AC_UY327_FMwebp_QL65_.jpg",
+      "rating": "3",
+      "desc": "Redmi 13C 5G (Startrail Green, 4GB RAM, 128GB Storage) | MediaTek Dimensity 6100+ 5G | 90Hz Display\n3.9 out of 5 stars 9,678",
+      "id": "cdcd"
+    },
+    {
+      "id": "e88d",
+      "category": "Mobile",
+      "rating": "5",
+      "price": "9999.99",
+      "name": "Samsung",
+      "image": "https://m.media-amazon.com/images/I/81nMsYgIHdL._AC_UY327_FMwebp_QL65_.jpg",
+      "desc": "realme NARZO N61 (Voyage Blue,6GB RAM+128GB Storage) 90Hz Eye Comfort Display | IP54 Dust & Water Resistance | 48-Month Fluency | Charger in The Box\n4.0 out of 5 stars 777"
+    },
+    {
+      "id": "cdcd",
+      "category": "Mobile",
+      "rating": "5",
+      "price": "49999.99",
+      "name": "Redmi 13C ",
+      "image": "https://m.media-amazon.com/images/I/81KFSdWCCEL._AC_UY327_FMwebp_QL65_.jpg",
+      "desc": "Redmi 13C 5G (Startrail Green, 4GB RAM, 128GB Storage) | MediaTek Dimensity 6100+ 5G | 90Hz Display\n3.9 out of 5 stars 9,678"
+    },
+    {
+      "id": "e88d",
+      "category": "Mobile",
+      "rating": "5",
+      "price": "9999.99",
+      "name": "Samsung",
+      "image": "https://m.media-amazon.com/images/I/81nMsYgIHdL._AC_UY327_FMwebp_QL65_.jpg",
+      "desc": "realme NARZO N61 (Voyage Blue,6GB RAM+128GB Storage) 90Hz Eye Comfort Display | IP54 Dust & Water Resistance | 48-Month Fluency | Charger in The Box\n4.0 out of 5 stars 777"
+    },
+    {
+      "id": "cdcd",
+      "category": "Mobile",
+      "rating": "5",
+      "price": "49999.99",
+      "name": "Redmi 13C ",
+      "image": "https://m.media-amazon.com/images/I/81KFSdWCCEL._AC_UY327_FMwebp_QL65_.jpg",
+      "desc": "Redmi 13C 5G (Startrail Green, 4GB RAM, 128GB Storage) | MediaTek Dimensity 6100+ 5G | 90Hz Display\n3.9 out of 5 stars 9,678"
+    },
+    {
+      "id": "e88d",
+      "category": "Mobile",
+      "rating": "5",
+      "price": "9999.99",
+      "name": "Samsung",
+      "image": "https://m.media-amazon.com/images/I/81nMsYgIHdL._AC_UY327_FMwebp_QL65_.jpg",
+      "desc": "realme NARZO N61 (Voyage Blue,6GB RAM+128GB Storage) 90Hz Eye Comfort Display | IP54 Dust & Water Resistance | 48-Month Fluency | Charger in The Box\n4.0 out of 5 stars 777"
+    },
+    {
+      "id": "cdcd",
+      "category": "Mobile",
+      "rating": "5",
+      "price": "49999.99",
+      "name": "Redmi 13C ",
+      "image": "https://m.media-amazon.com/images/I/81KFSdWCCEL._AC_UY327_FMwebp_QL65_.jpg",
+      "desc": "Redmi 13C 5G (Startrail Green, 4GB RAM, 128GB Storage) | MediaTek Dimensity 6100+ 5G | 90Hz Display\n3.9 out of 5 stars 9,678"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+.AdminNavbar{
+    position: sticky;
+    top: 0px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: aqua;
+    padding: 0px 40px;
+    height: 60px;
+}
+.AdminNavbar>.logo h1{
+    font-weight: bold;
+    font-style: italic;
+    color: brown;
+}
+.AdminNavbar>.logo span{
+    color: rgb(252, 241, 165);
+}
+.AdminNavbar>.links{
+    width: 300px;
+    display: flex;
+    justify-content: space-around;
+}
+.AdminNavbar>.links a{
+    color: black;
+    text-decoration: none;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.AdminNavbar>.links a:hover{
+    color: white;
+}
